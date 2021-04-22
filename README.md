@@ -1,6 +1,6 @@
 # Assignment 4: Screens
 
-**Rapport**
+** Rapport **
 Den här duggan handlade om att skapa en screen med hjälp av fragment. I uppgiften stod att skapa ett nytt activity, båda aktiviteterna borde innehålla en knapp som gjorde det möjligt att navigera mellan första och andra activity. Andra activity borde innehålla en fragment, och fragmenten borde innehålla en widget. 
 ```
 <?xml version="1.0" encoding="utf-8"?>
